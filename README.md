@@ -1,2 +1,3 @@
 # Exhaustive analysis of Indian Agriculture using Power BI
-Exhaustive analysis of Indian Agriculture using Power BI. A project for my Edunet internship in green tech.
+
+Task : Demonstrate ETL process using Power BI and provided dataset
